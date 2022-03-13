@@ -4,8 +4,16 @@
 
 ## Install
 
+Add to your `Gemfile`:
+
 ```ruby
 gem "args_to_attrs"
+```
+
+Then run:
+
+```ruby
+bundle install
 ```
 
 ## How to use
